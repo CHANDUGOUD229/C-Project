@@ -1,0 +1,7 @@
+C:\Users\chand\source\repos\Project\Project\bin\Release\Project.exe.config
+C:\Users\chand\source\repos\Project\Project\bin\Release\Project.exe
+C:\Users\chand\source\repos\Project\Project\bin\Release\Project.pdb
+C:\Users\chand\source\repos\Project\Project\obj\Release\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\chand\source\repos\Project\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\chand\source\repos\Project\Project\obj\Release\Project.exe
+C:\Users\chand\source\repos\Project\Project\obj\Release\Project.pdb
